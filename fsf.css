@@ -26,8 +26,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6;
-    margin:0;
-	padding:0;
+   
 }
 
 /* グリッド–––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -471,7 +470,7 @@ nav ul {
 
 }
 .mainimg img {
-	display:	block;
+	display: block;
 	max-width: 800px;
 	width: 100%;
 	height: auto;
