@@ -117,13 +117,13 @@ body {
 }
   
 .row .col.artist {
-	background-color:	#000;
-  flex: 1 1 25%;
-  flex-wrap: wrap;
-  gap: 1rem;
-  max-width: 25%;
-  margin:0.3em;
-  border: 2px solid #000;
+background-color:	#000;
+flex: 1 1 25%;
+flex-wrap: wrap;
+gap: 1rem;
+max-width: 25%;
+margin:0.3em;
+border: 2px solid #000;
     
 }
   
@@ -464,11 +464,14 @@ nav ul {
     
 /*メイン画像
 -------------------------------------*/
-.mainimg img {
+.mainimg {
     width: 100vw;
     background-color: rgba(0,0,0,0.5);
 	color:	#FFF;
 
+}
+.mainimg {
+	max-width: 800px;
 }
 
 /*メインコンテンツ
