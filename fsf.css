@@ -471,6 +471,7 @@ nav ul {
 
 }
 .mainimg img {
+	display:	block;
 	max-width: 800px;
 }
 
