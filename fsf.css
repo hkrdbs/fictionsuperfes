@@ -507,21 +507,6 @@ section {
 	margin-bottom: 4rem;
 }
 
-/*申し込みの流れ
--------------------------------------*/
-.flow.row {
-	margin-bottom: 3rem;
-}
-
-/*フッター
--------------------------------------*/
-footer {
-    background-color: var(--back-color); 
-    padding: 5rem 0;
-}
-footer h4 {
-    border-bottom: 3px solid var(--border-color);
-}
 
 
 
